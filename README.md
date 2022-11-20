@@ -15,7 +15,15 @@
   실제 오르골 모형을 재현하기에 무리가 있으므로 간단한 종이 모형을 제작하여 모터에 부착하였습니다. 무한한 음악을 Codevision을 통해서 연주할 수 있지만 하나의 곡(‘we wish your merry christmas’)을 연주할 수 있는 코드를 예시로 입력하여 다양한 음악 연주 가능성을 살펴볼 수 있습니다.
 
 
-
+ ###   
+  
+  ### 사용 LCD
+  
+  ###
+  ![사용LCD](file:///C:/Users/lg/Downloads/%EC%82%AC%EC%9A%A9%20LCD.bmp)
+  
+  ### 구현 사진
+  ![동작사진](https://raw.githubusercontent.com/yelunar/electronic-music-box/main/%EA%B5%AC%ED%98%84%20%EC%82%AC%EC%A7%84.bmp)
 
 소스코드는 다음과 같이 작성할 수 있습니다.
 

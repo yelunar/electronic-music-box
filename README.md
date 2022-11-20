@@ -13,16 +13,26 @@
  
  
   실제 오르골 모형을 재현하기에 무리가 있으므로 간단한 종이 모형을 제작하여 모터에 부착하였습니다. 무한한 음악을 Codevision을 통해서 연주할 수 있지만 하나의 곡(‘we wish your merry christmas’)을 연주할 수 있는 코드를 예시로 입력하여 다양한 음악 연주 가능성을 살펴볼 수 있습니다.
+  
+ ``` 
+<구현 방법>
+  
+ 1) 전원을 인가하면 LCD에 가사가 출력된다.
+ 2) 스피커에는 미리 입력된 곡이 재생되며 진동모터가 자동으로 돌아간다.
+ 3) 전원이 인가되어 있으면 오르골은 따로 테이프를 감지 않아도 무한하게 회전한다. 이때, 음악도 같이 재생된다.
+ 
+ 단, 스피커는 PB5, 회전 모터는 PF0,1에 회로를 결선
+```
 
 
  ###   
   
-  ### 사용 LCD
+  #### 사용 LCD
   
   ###
   ![사용LCD](https://raw.githubusercontent.com/yelunar/electronic-music-box/main/%EC%82%AC%EC%9A%A9%20LCD.bmp)
   
-  ### 구현 사진
+  #### 구현 사진
   ![구현사진](https://raw.githubusercontent.com/yelunar/electronic-music-box/main/%EA%B5%AC%ED%98%84%20%EC%82%AC%EC%A7%84.bmp)
 
 소스코드는 다음과 같이 작성할 수 있습니다.

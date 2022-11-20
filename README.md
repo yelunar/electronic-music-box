@@ -20,10 +20,10 @@
   ### 사용 LCD
   
   ###
-  ![사용LCD](file:///C:/Users/lg/Downloads/%EC%82%AC%EC%9A%A9%20LCD.bmp)
+  ![사용LCD](https://raw.githubusercontent.com/yelunar/electronic-music-box/main/%EC%82%AC%EC%9A%A9%20LCD.bmp)
   
   ### 구현 사진
-  ![동작사진](https://raw.githubusercontent.com/yelunar/electronic-music-box/main/%EA%B5%AC%ED%98%84%20%EC%82%AC%EC%A7%84.bmp)
+  ![구현사진](https://raw.githubusercontent.com/yelunar/electronic-music-box/main/%EA%B5%AC%ED%98%84%20%EC%82%AC%EC%A7%84.bmp)
 
 소스코드는 다음과 같이 작성할 수 있습니다.
 

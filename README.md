@@ -24,9 +24,6 @@
  단, 스피커는 PB5, 회전 모터는 PF0,1에 회로를 결선
 ```
 
-### 구현 사진
-![구현 사진](https://raw.githubusercontent.com/yelunar/electronic-music-box/main/%EA%B5%AC%ED%98%84%20%EC%82%AC%EC%A7%84.bmp)
-
  ###   
   
   #### 사용 LCD
